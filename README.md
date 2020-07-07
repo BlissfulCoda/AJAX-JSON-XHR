@@ -1,2 +1,4 @@
 # AJAX-JSON-XHR
-Working with AJAX, JSON &amp; XHR object, fetching data from two json files i created &amp; using the HTTP Status codes to check &amp; display that data back to the browser.
+Working with AJAX, JSON &amp; XHR object to fetch data from two JSON files (customer.json & customers.json)
+Using the HTTP Status codes. 
+Display that data from both JSON files back to the browser.
