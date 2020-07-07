@@ -56,7 +56,10 @@ function loadCustomers(e){
         //check if http request status is 'OK'
         if(this.status === 200){
             const customersDetail = JSON.parse(this.responseText);
+            //creating an empty string for output
             let output = "";
+            
+            //looping through the Customers JSON file and adding the next customer to the previous customer
             customersDetail.forEach(customer => {
             output += `
             <ul>
