@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ronnie Kiyegga",
+        "role": "Awesome Developer",
+        "year": "2020"
+    },
+    {
+        "id": 2,
+        "name": "Lord Beerus",
+        "role": "God Of Destruction",
+        "year": "Y73"
+    },
+    {
+        "id": 3,
+        "name": "Kakarot Goku",
+        "role": "MUI, SSJ Saiyan",
+        "year": "2020"
+    },
+    {
+        "id": 4,
+        "name": "Prince Vegeta",
+        "role": "SSJ, Prince Of Saiyans",
+        "year": "202"
+    },
+    {
+        "id": 5,
+        "name": "Angel Whis",
+        "role": "Angel Race, Teacher to Lord Beerus",
+        "year": "Y001"
+    }
+]
